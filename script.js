@@ -4,9 +4,9 @@ let img2;
 
 function preload() {
   soundFormats('mp3');
-  mySound = loadSound('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/sorrows.mp3');
-  img = loadImage('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/SkullVanGogh.jpg');
-  img2 = loadImage('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/Dore.jpg')
+  mySound = loadSound('https://cdn.glitch.global/e366aae4-919b-4039-8551-b81809ae73d9/sorrows.mp3?v=1678505165924');
+  img = loadImage('https://cdn.glitch.global/e366aae4-919b-4039-8551-b81809ae73d9/Skull-%20Van%20Gogh.jpg?v=1678506183746');
+  img2 = loadImage('https://cdn.glitch.global/e366aae4-919b-4039-8551-b81809ae73d9/Dore.jpg?v=1678603922012')
 }
 
 function setup() {
