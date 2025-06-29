@@ -5,7 +5,7 @@ let img2;
 function preload() {
   soundFormats('mp3');
   mySound = loadSound('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/sorrows.mp3');
-  img = loadImage('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/Skull- Van Gogh.jpg');
+  img = loadImage('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/SkullVanGogh.jpg');
   img2 = loadImage('https://cdn.jsdelivr.net/gh/jdskyles/Sorrows/Dore.jpg')
 }
 
